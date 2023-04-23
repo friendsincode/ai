@@ -4,5 +4,5 @@
 models/*
 !models/.gitkeep
 
-llama-7b-hf/*
-!llama-7b-hf/.gitkeep
+submodules/llama-7b-hf/*
+!submodules/llama-7b-hf/.gitkeep
