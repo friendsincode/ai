@@ -1,0 +1,12 @@
+[submodule "submodules/gpt4all"]
+	path = submodules/gpt4all
+	url = https://github.com/nomic-ai/gpt4all
+[submodule "submodules/llama-7b-hf"]
+	path = submodules/llama-7b-hf
+	url = https://huggingface.co/decapoda-research/llama-7b-hf
+[submodule "submodules/llama.cpp"]
+	path = submodules/llama.cpp
+	url = https://github.com/ggerganov/llama.cpp.git
+[submodule "submodules/pyllamacpp"]
+	path = submodules/pyllamacpp
+	url = https://github.com/nomic-ai/pyllamacpp.git
