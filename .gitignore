@@ -1,0 +1,8 @@
+# .gitignore
+
+# Ignore model directories
+models/*
+!models/.gitkeep
+
+llama-7b-hf/*
+!llama-7b-hf/.gitkeep
